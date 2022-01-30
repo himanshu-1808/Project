@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -219,3 +220,9 @@ body > span {
     font-size: 2rem;
     margin: 2rem auto;
 }
+
+
+
+
+
+/* api.openweathermap.org/data/2.5/weather?q=Chandigarh&appid=42d84940754c02d5885f293822ef4d29 */
